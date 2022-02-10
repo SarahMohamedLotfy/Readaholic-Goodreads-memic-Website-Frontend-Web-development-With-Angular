@@ -29,7 +29,7 @@
         "jquery": "^3.4.0",
         "jsonwebtoken": "^8.5.1",
         "ng2-rating": "0.0.7",
-        "node-sass": "^4.12.0",
+        "node-sass": "^7.0.0",
         "popper.js": "^1.14.7",
         "pusher": "^2.2.0",
         "pusher-js": "^4.4.0",
